@@ -1,0 +1,49 @@
+body {
+    background-color: #9FBB73;
+}
+
+#timeElapsed {
+    height: 15vh;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#numberDisplay {
+    height: 60vh;
+    font-size: 500px;
+    font-weight: bolder;
+}
+
+#accuracy {
+    height: 10vh;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.button{
+    background-color: #F3B664;
+    border-radius: 10px;
+    width: 200px;
+    height: 100px;
+    border-width: 10px;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.button:hover {
+    background-color: #F3B664;
+    opacity: 0.7;
+}
+
+.button:active {
+    background-color: #EC8F5E;
+}
+
+
+#endButton {
+    display: none;
+}
+
+#correctButton {
+    display: none;
+}
